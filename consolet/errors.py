@@ -1,2 +1,0 @@
-class LessThanZeroException(ValueError):
-    pass
