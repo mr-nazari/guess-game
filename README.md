@@ -1,4 +1,4 @@
-# GuessGame
+# Guess Game
 
 This game is a challenge to test your guessing ability 🙂
 
